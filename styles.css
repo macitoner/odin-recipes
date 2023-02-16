@@ -1,0 +1,44 @@
+body {
+  background-image: radial-gradient(circle farthest-side, #fceabb, hsla(44, 100%, 49%, 0.616));
+
+}
+
+.title {
+  color : red;
+  text-align: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.secondtitle {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.mainpage {
+  padding-left: 0;
+  list-style-type: none;
+  text-align: center;
+  font-size: 25px;
+  text-decoration: none;
+}
+
+ul {
+  padding-left: 0;
+  list-style-type: none;
+  text-align: center;
+  
+}
+
+ol {
+  text-align: center;
+  list-style-position: inside;
+  padding-left: 0;
+}
+div {
+  text-align: center;
+}
+
